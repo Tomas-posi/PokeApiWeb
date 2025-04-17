@@ -4,7 +4,7 @@ Mini-juego inspirado en el clásico "¿Quién es ese Pokémon?" usando HTML, CSS
 Utiliza la PokéAPI para mostrar un Pokémon aleatorio y desafiarte a adivinar su nombre a partir de su silueta.
 
 
-👉 [¡Haz clic aquí para jugar!]([https://github.com/Tomas-posi/PokeApiWeb.git](https://tomas-posi.github.io/PokeApiWeb/))
+👉 [¡Haz clic aquí para jugar!](https://tomas-posi.github.io/PokeApiWeb/)
 Reglas:
 1. Se muestra una silueta de un Pokémon aleatorio.
 2. Escribe su nombre y presiona Adivinar
