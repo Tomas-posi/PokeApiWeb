@@ -1,19 +1,19 @@
-# ¿Quién es este Pokémon?
+Who’s That Pokémon?
 
-Mini-juego inspirado en el clásico "¿Quién es ese Pokémon?" usando HTML, CSS y JavaScript.  
-Utiliza la PokéAPI para mostrar un Pokémon aleatorio y desafiarte a adivinar su nombre a partir de su silueta.
+A mini-game inspired by the classic “Who’s That Pokémon?”, built with HTML, CSS, and JavaScript.
+It uses the PokéAPI to display a random Pokémon and challenge you to guess its name from its silhouette.
 
+👉 [¡Click here to play!](https://tomas-posi.github.io/PokeApiWeb/)
 
-👉 [¡Haz clic aquí para jugar!](https://tomas-posi.github.io/PokeApiWeb/)
-Reglas:
-1. Se muestra una silueta de un Pokémon aleatorio.
-2. Escribe su nombre y presiona Adivinar
-3. Si aciertas:
-   - Se revela el Pokémon.
-   - Ganas 1 punto.
-   - Puedes continuar con **Siguiente**.
-4. Si fallas:
-   - Pierdes una vida
-   - Al perder todas las vidas, solo puedes reiniciar.
-5. El juego guarda tu puntuación más alta.
+Rules:
+A silhouette of a random Pokémon is shown.
+Type its name and press Guess.
+If you guess correctly:
+The Pokémon is revealed.
+You earn 1 point.
+You can continue by clicking Next.
+If you guess incorrectly:
+You lose one life.
+If you lose all your lives, you can only restart the game.
+The game saves your highest score.
 
